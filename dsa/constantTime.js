@@ -7,7 +7,3 @@ function getFirstElement(arr) {
 }
 
 // This function will always take same amount of time, no matter how large the input is.
-
-// console.log(sum(10));
-
-// console.log(this);
